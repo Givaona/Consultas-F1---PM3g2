@@ -115,6 +115,15 @@ h1{
     justify-content: center;
 }
 
+#discord{
+    border-radius: 50%;
+}
+
+.icon{
+    width: 40%;
+    margin: 25px;
+}
+
 footer{
     width: auto;
 
