@@ -1,0 +1,34 @@
+RACE_ID,DRIVER_ID,FORENAME,SURNAME,NOME,NUMBER,NAME,TIME,tempo_segundos,TEMPO,YEAR
+907,13,Felipe,Massa,Felipe Massa,19,Austrian Grand Prix,1:16.432,67.411,67411,2014
+172,57,Mika,H,Mika H,0,United States Grand Prix,1:30.772,70.399,70399,2000
+859,20,Sebastian,Vettel,Sebastian Vettel,5,Brazilian Grand Prix,1:22.384,71.044,71044,2011
+847,20,Sebastian,Vettel,Sebastian Vettel,5,Canadian Grand Prix,2:18.174,73.622,73622,2011
+869,20,Sebastian,Vettel,Sebastian Vettel,5,German Grand Prix,1:20.856,73.78,73780,2012
+846,20,Sebastian,Vettel,Sebastian Vettel,5,Monaco Grand Prix,1:24.839,74.439,74439,2011
+232,56,Eddie,Irvine,Eddie Irvine,0,French Grand Prix,1:32.543,75.045,75045,1996
+845,4,Fernando,Alonso,Fernando Alonso,14,Spanish Grand Prix,1:34.494,75.641,75641,2011
+851,20,Sebastian,Vettel,Sebastian Vettel,5,Hungarian Grand Prix,1:54.653,76.207,76207,2011
+850,1,Lewis,Hamilton,Lewis Hamilton,44,German Grand Prix,1:41.425,78.354,78354,2011
+50,4,Fernando,Alonso,Fernando Alonso,14,Japanese Grand Prix,2:28.745,78.426,78426,2007
+849,20,Sebastian,Vettel,Sebastian Vettel,5,British Grand Prix,1:54.623,78.739,78739,2011
+943,3,Nico,Rosberg,Nico Rosberg,6,Mexican Grand Prix,1:27.651,78.785,78785,2015
+228,30,Michael,Schumacher,Michael Schumacher,0,San Marino Grand Prix,1:39.284,80.411,80411,1996
+853,4,Fernando,Alonso,Fernando Alonso,14,Italian Grand Prix,1:59.584,81.046,81046,2011
+238,30,Michael,Schumacher,Michael Schumacher,0,Portuguese Grand Prix,1:32.530,82.873,82873,1996
+223,71,Damon,Hill,Damon Hill,0,European Grand Prix,1:33.851,83.135,83135,1997
+841,20,Sebastian,Vettel,Sebastian Vettel,5,Australian Grand Prix,1:38.109,84.125,84125,2011
+844,20,Sebastian,Vettel,Sebastian Vettel,5,Turkish Grand Prix,1:35.269,84.77,84770,2011
+857,20,Sebastian,Vettel,Sebastian Vettel,5,Indian Grand Prix,1:34.881,87.249,87249,2011
+226,30,Michael,Schumacher,Michael Schumacher,0,Argentine Grand Prix,1:35.713,87.981,87981,1996
+863,20,Sebastian,Vettel,Sebastian Vettel,5,Bahrain Grand Prix,1:41.605,90.252,90252,2012
+855,20,Sebastian,Vettel,Sebastian Vettel,5,Japanese Grand Prix,1:40.257,91.54,91540,2011
+843,18,Jenson,Button,Jenson Button,22,Chinese Grand Prix,1:45.908,92.238,92238,2011
+842,20,Sebastian,Vettel,Sebastian Vettel,5,Malaysian Grand Prix,1:49.614,94.08,94080,2011
+915,1,Lewis,Hamilton,Lewis Hamilton,44,Russian Grand Prix,1:47.490,96.844,96844,2014
+878,20,Sebastian,Vettel,Sebastian Vettel,5,United States Grand Prix,1:47.821,97.766,97766,2012
+848,20,Sebastian,Vettel,Sebastian Vettel,5,European Grand Prix,1:50.320,98.683,98683,2011
+856,20,Sebastian,Vettel,Sebastian Vettel,5,Korean Grand Prix,1:47.844,99.605,99605,2011
+858,1,Lewis,Hamilton,Lewis Hamilton,44,Abu Dhabi Grand Prix,1:50.984,100.279,100279,2011
+955,3,Nico,Rosberg,Nico Rosberg,6,European Grand Prix,1:52.772,103.441,103441,2016
+854,20,Sebastian,Vettel,Sebastian Vettel,5,Singapore Grand Prix,1:56.910,105.008,105008,2011
+852,3,Nico,Rosberg,Nico Rosberg,6,Belgian Grand Prix,1:59.687,105.108,105108,2011
