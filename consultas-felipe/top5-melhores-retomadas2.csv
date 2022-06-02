@@ -1,0 +1,6 @@
+resultid,raceid,driverid,grid,position,time,forename,surname,nationality,constructorRef,name,nationality,year,round,circuitid,name,date
+10684,453,187,22,1,53:34.9,John,Watson,British,mclaren,McLaren,British,1983,2,43,"United States Grand Prix West",1983-03-27
+19232,800,657,19,1,49:17.3,Bill,Vukovich,American,kurtis_kraft,"Kurtis Kraft",American,1954,2,19,"Indianapolis 500",1954-05-31
+3150,168,22,18,1,25:34.4,Rubens,Barrichello,Brazilian,ferrari,Ferrari,Italian,2000,11,10,"German Grand Prix",2000-07-30
+11250,473,187,17,1,58:41.0,John,Watson,British,mclaren,McLaren,British,1982,7,37,"Detroit Grand Prix",1982-06-06
+1475,88,8,17,1,29:02.2,Kimi,Raikkonen,Finnish,mclaren,McLaren,British,2005,18,22,"Japanese Grand Prix",2005-10-09
